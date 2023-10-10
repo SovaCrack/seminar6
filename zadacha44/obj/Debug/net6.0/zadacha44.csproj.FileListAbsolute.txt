@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\seminar6\zadacha44\obj\Debug\net6.0\zadacha44.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\seminar6\zadacha44\obj\Debug\net6.0\zadacha44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\seminar6\zadacha44\obj\Debug\net6.0\zadacha44.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\seminar6\zadacha44\obj\Debug\net6.0\zadacha44.AssemblyInfo.cs
+C:\Users\User\Desktop\seminar6\zadacha44\obj\Debug\net6.0\zadacha44.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\seminar6\zadacha44\bin\Debug\net6.0\zadacha44.exe
+C:\Users\User\Desktop\seminar6\zadacha44\bin\Debug\net6.0\zadacha44.deps.json
+C:\Users\User\Desktop\seminar6\zadacha44\bin\Debug\net6.0\zadacha44.runtimeconfig.json
+C:\Users\User\Desktop\seminar6\zadacha44\bin\Debug\net6.0\zadacha44.dll
+C:\Users\User\Desktop\seminar6\zadacha44\bin\Debug\net6.0\zadacha44.pdb
+C:\Users\User\Desktop\seminar6\zadacha44\obj\Debug\net6.0\zadacha44.dll
+C:\Users\User\Desktop\seminar6\zadacha44\obj\Debug\net6.0\refint\zadacha44.dll
+C:\Users\User\Desktop\seminar6\zadacha44\obj\Debug\net6.0\zadacha44.pdb
+C:\Users\User\Desktop\seminar6\zadacha44\obj\Debug\net6.0\zadacha44.genruntimeconfig.cache
+C:\Users\User\Desktop\seminar6\zadacha44\obj\Debug\net6.0\ref\zadacha44.dll
